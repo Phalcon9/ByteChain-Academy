@@ -70,7 +70,7 @@ The frontend uses [Next.js](https://nextjs.org/):
 
 ## Contributions
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide before making a contribution.
+Please read our [CONTRIBUTING.md](https://github.com/Nexacore-Org/ByteChain-Academy/blob/main/CONTRIBUTING.MD) guide before making a contribution.
 
 ## License
 
@@ -80,7 +80,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 For inquiries, discussions, or help, feel free to reach out to us:
 - 📬 Email: [contact@nexacore.org](mailto:contact@nexacore.org)
-- 🗣️ Telegram: [https://t.me/ByteChainAcademy](https://t.me/ByteChainAcademy)
+- 🗣️ Telegram: [https://t.me/ByteChainAcademy](https://t.me/+E_iHswAzaPA4Yzk8)
 - 🐛 Issues: Open an issue for feature requests or bug reports
 
 ---
