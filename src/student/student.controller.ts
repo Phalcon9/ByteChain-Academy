@@ -2,12 +2,9 @@ import { Controller, Post, Body, Get, Param, Delete, Patch } from '@nestjs/commo
 import { StudentService } from './services/student.service';
 import { CreateStudentDto } from './dto/create-student.dto';
 import { Student } from '../student/entities/student.entity';
-<<<<<<< HEAD
 import { Roles } from 'src/roles/roles.decorator';
 import { UserRole } from 'src/roles/roles.enum';
-=======
 import { UpdateStudentDto } from './dto/update-student.dto';
->>>>>>> a0952c81302c8d0725a34b77472655a55f7d8acd
 
 @Controller('/api/v1/student')
 @Roles(UserRole.STUDENT) 
