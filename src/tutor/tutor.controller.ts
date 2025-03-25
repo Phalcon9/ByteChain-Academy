@@ -13,7 +13,7 @@ import { UpdateTutorDto } from './dto/update-tutor.dto';
 import { Roles } from 'src/roles/roles.decorator';
 import { UserRole } from 'src/roles/roles.enum';
 
-
+// role added to the tutor controller 
 @Controller('tutor')
 @Roles(UserRole.TUTOR)
 export class TutorController {
